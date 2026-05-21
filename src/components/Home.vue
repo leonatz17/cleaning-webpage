@@ -2,7 +2,7 @@
 
 </script>
 <template>
-    <div class="h-40 w-full">
+    <div class="h-50 w-full border">
         <h1></h1>
     </div>
     <div class="relative lg:mt-10 md:mt-20 sm:mt-30">
