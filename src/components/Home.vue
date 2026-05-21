@@ -3,7 +3,7 @@
 </script>
 <template>
     
-    <div class="relative lg:mt-10 md:mt-10 sm:mt-60">
+    <div class="relative mt-30">
         <div>
             <img class="h-60 w-full shrink-0" src="../assets/images/cleanspace.jpg" alt="">
         </div>
