@@ -68,12 +68,12 @@ export default {
         <h1></h1>
     </div>
     <!-- menu modal  -->
-    <div v-if="menu" class="text-white h-40 w-40 bg-blue-200 text-black shadow-2xl/20 text-center fixed right-40 top-18 z-4000 cursor-pointer font-bold">
-        <h1 text-shadow-lg text-[20px] >Home</h1>
-        <h1 text-shadow-lg  text-[20px]>About Us</h1>
-        <h1 text-shadow-lg text-[20px]>Services</h1>
-        <h1 text-shadow-lg text-[20px]>Contact</h1>
-        <h1 text-shadow-lg text-[20px]>FAQ</h1>
+    <div v-if="menu" class="text-white h-auto w-40 bg-blue-200 text-lg text-black shadow-2xl/20 text-center fixed right-40 top-18 z-4000 cursor-pointer font-bold">
+        <h1 text-shadow-lg  >Home</h1>
+        <h1 text-shadow-lg  >About Us</h1>
+        <h1 text-shadow-lg >Services</h1>
+        <h1 text-shadow-lg >Contact</h1>
+        <h1 text-shadow-lg >FAQ</h1>
     </div>
     <div Menu @showThemenu="(closeMenu)" v-if="bg" @click="closeMenu" class="h-1100 w-full bg-white absolute top-0 z-3000 opacity-3 ">
     </div>
