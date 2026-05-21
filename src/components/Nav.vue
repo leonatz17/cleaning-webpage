@@ -31,7 +31,7 @@ export default {
     <div class="fixed top-0 z-1000  w-full ">
         <div class=" flex  h-auto bg-blue-200 w-full justify-between  px-25 lg:px-25 md:px-20 sm:px-0">
             <div class="border w-70  border-hidden">
-                <p class="text-[8px] text-white font-semibold py-1">CALL US NOW: +63917 883 3145</p>
+                <p class="lg:text-[8px] md:text-[10px] sm:text-[12px] text-white font-semibold py-1">CALL US NOW: +63917 883 3145</p>
             </div>
             <div class="flex gap-3">
                 <p class="lg:text-[8px] md:text-[10px] sm:text-[12px] text-white font-semibold py-1">Log In/Register</p>
@@ -51,7 +51,7 @@ export default {
                 <h1 class=" lg:text-[15px] md:text-[12px] sm:text-[10px]  hover:bg-blue-100 px-2">FAQ</h1>
             </div>
             <div class="absolute right-35">
-                <svg class="w-6 h-6 lg:hidden md:hidden sm:block " aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                <svg class="w-10 h-10 lg:hidden md:hidden sm:block " aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
                     width="24" height="24" fill="none" viewBox="0 0 24 24" @click="barMenu()">
                     <path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M5 7h14M5 12h14M5 17h14" />
                 </svg>
