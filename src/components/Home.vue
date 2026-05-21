@@ -2,7 +2,7 @@
 
 </script>
 <template>
-    <div class="relative mt-10">
+    <div class="relative lg:mt-10 md:mt-20 sm:mt-30">
         <div>
             <img class="h-60 w-full shrink-0" src="../assets/images/cleanspace.jpg" alt="">
         </div>
@@ -15,7 +15,7 @@
                 AN ESTIMATE</button>
         </div>
     </div>
-    <div class=" lg:mt-10 md:mt-20 sm:mt-30 flex justify-center px-10">
+    <div class=" mt-10  flex justify-center px-10">
         <div class="lg:w-100 md:w-80 sm:50 border text-center font-serif border-hidden">
             <h1 class="text-2xl font-bold py-3">What do we do?</h1>
             <p class="text-[15px]">Experience unparalleled cleaning services from our Clean Sparks Agents. Whether it’s
