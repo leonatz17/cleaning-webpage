@@ -38,101 +38,101 @@
                 <button class="bg-blue-400 text-white text-sm w-60 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
 
             </div>
-            <div class="w-50 h-70 bg-white shadow-2xl/20 font-serif relative">
-                <img class="h-30 w-50 text- " src="../assets/images/general.webp" alt="">
-                <h1 class="text-center text-[15px] border w-50 border-hidden">Clean Sparks General Cleaning</h1>
-                <p class="border text-[10px] text-center px-2 py-1 border-hidden">
+            <div class="w-60 h-80 bg-white shadow-2xl/20 font-serif relative">
+                <img class="h-35 w-60 text- " src="../assets/images/general.webp" alt="">
+                <h1 class="text-center text-[15px] border w-60 border-hidden">Clean Sparks General Cleaning</h1>
+                <p class="border text-[13px] text-center px-2 py-1 border-hidden">
                     Clean Sparks General Cleaning offers a thorough cleaning of your entire space. Ideal for both homes
                     and
                     commercial areas that need a full refresh.
                 </p>
-                <button class="bg-blue-400 text-white text-sm w-50 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
+                <button class="bg-blue-400 text-white text-sm w-60 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
 
             </div>
-            <div class="w-50 h-70 bg-white shadow-2xl/20 font-serif relative">
-                <img class="h-30 w-50 text- " src="../assets/images/premium.jpg" alt="">
-                <h1 class="text-center text-[15px] border w-50 border-hidden">Clean Sparks Premium Cleaning</h1>
-                <p class="border text-[10px] text-center px-2 py-1 border-hidden">
+            <div class="w-60 h-80 bg-white shadow-2xl/20 font-serif relative">
+                <img class="h-35 w-60 text- " src="../assets/images/premium.jpg" alt="">
+                <h1 class="text-center text-[15px] border w-60 border-hidden">Clean Sparks Premium Cleaning</h1>
+                <p class="border text-[13px] text-center px-2 py-1 border-hidden">
                     Clean Sparks Premium Cleaning delivers top-tier cleaning for homes and businesses, featuring our
                     signature Duo Disinfection for a deep, refined clean.</p>
-                <button class="bg-blue-400 text-white text-sm w-50 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
+                <button class="bg-blue-400 text-white text-sm w-60 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
             </div>
-            <div class="w-50 h-70 bg-white shadow-2xl/20 font-serif relative">
-                <img class="h-30 w-50 text- " src="../assets/images/construction.jpg" alt="">
-                <h1 class="text-center text-[15px] border w-50 border-hidden">Clean Sparks Post-Construction Cleaning
+            <div class="w-60 h-80 bg-white shadow-2xl/20 font-serif relative">
+                <img class="h-35 w-60 text- " src="../assets/images/construction.jpg" alt="">
+                <h1 class="text-center text-[15px] border w-60 border-hidden">Clean Sparks Post-Construction Cleaning
                 </h1>
-                <p class="border text-[10px] text-center px-2 py-1 border-hidden">
+                <p class="border text-[13px] text-center px-2 py-1 border-hidden">
                     Our post-construction service specializes in cleaning newly built or renovated properties. We remove
                     all
                     construction debris, and dust, ensuring your space is ready.</p>
-                <button class="bg-blue-400 text-white text-sm w-50 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
+                <button class="bg-blue-400 text-white text-sm w-60 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
             </div>
-            <div class="w-50 h-70 bg-white shadow-2xl/20 font-serif relative">
-                <img class="h-30 w-50 text- " src="../assets/images/commercial.jpg" alt="">
-                <h1 class="text-center text-[15px] border w-50 border-hidden">Commercial Cleaning</h1>
-                <p class="border text-[10px] text-center px-2 py-1 border-hidden">
+            <div class="w-60 h-80 bg-white shadow-2xl/20 font-serif relative">
+                <img class="h-35 w-60 text- " src="../assets/images/commercial.jpg" alt="">
+                <h1 class="text-center text-[15px] border w-60 border-hidden">Commercial Cleaning</h1>
+                <p class="border text-[13px] text-center px-2 py-1 border-hidden">
                     Clean Sparks Spruce Commercial Cleaning is a customized service to maintain a clean and sanitized
                     commercial property.</p>
-                <button class="bg-blue-400 text-white text-sm w-50 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
+                <button class="bg-blue-400 text-white text-sm w-60 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
             </div>
-            <div class="w-50 h-70 bg-white shadow-2xl/20 font-serif relative">
-                <img class="h-30 w-50 text- " src="../assets/images/pest-control.jpg" alt="">
-                <h1 class="text-center text-[15px] border w-50 border-hidden">Pest Control Service</h1>
-                <p class="border text-[10px] text-center px-2 py-1 border-hidden">
+            <div class="w-60 h-80 bg-white shadow-2xl/20 font-serif relative">
+                <img class="h-35 w-60 text- " src="../assets/images/pest-control.jpg" alt="">
+                <h1 class="text-center text-[15px] border w-60 border-hidden">Pest Control Service</h1>
+                <p class="border text-[13px] text-center px-2 py-1 border-hidden">
                     We eliminate and prevent pest infestations in homes and businesses with tailored treatment plans and
                     effective, safe methods.</p>
-                <button class="bg-blue-400 text-white text-sm w-50 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
+                <button class="bg-blue-400 text-white text-sm w-60 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
             </div>
-            <div class="w-50 h-70 bg-white shadow-2xl/20 font-serif relative">
-                <img class="h-30 w-50 text- " src="../assets/images/Upholstery-Cleaning.webp" alt="">
-                <h1 class="text-center text-[15px] border w-50 border-hidden">5-in-1 Upholstery Cleaning</h1>
-                <p class="border text-[10px] text-center px-2 py-1 border-hidden">
+            <div class="w-60 h-80 bg-white shadow-2xl/20 font-serif relative">
+                <img class="h-35 w-60 text- " src="../assets/images/Upholstery-Cleaning.webp" alt="">
+                <h1 class="text-center text-[15px] border w-60 border-hidden">5-in-1 Upholstery Cleaning</h1>
+                <p class="border text-[13px] text-center px-2 py-1 border-hidden">
                     Our 5-in-1 Upholstery Cleaning deep cleans your most-used furniture, removing dirt, allergens, and
                     hidden grime for a fresher, healthier space.</p>
-                <button class="bg-blue-400 text-white text-sm w-50 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
+                <button class="bg-blue-400 text-white text-sm w-60 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
             </div>
-            <div class="w-50 h-70 bg-white shadow-2xl/20 font-serif relative">
-                <img class="h-30 w-50 text- " src="../assets/images/carpet.jpg" alt="">
-                <h1 class="text-center text-[15px] border w-50 border-hidden">Carpet Cleaning</h1>
-                <p class="border text-[10px] text-center px-2 py-1 border-hidden">
+            <div class="w-60 h-80 bg-white shadow-2xl/20 font-serif relative">
+                <img class="h-35 w-60 text- " src="../assets/images/carpet.jpg" alt="">
+                <h1 class="text-center text-[15px] border w-60 border-hidden">Carpet Cleaning</h1>
+                <p class="border text-[13px] text-center px-2 py-1 border-hidden">
                     Clean Sparks Carpet Cleaning lifts deep-seated dirt, stains, and allergens to restore your carpet’s
                     freshness,
                     softness, and appearance.</p>
-                <button class="bg-blue-400 text-white text-sm w-50 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
+                <button class="bg-blue-400 text-white text-sm w-60 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
             </div>
-            <div class="w-50 h-70 bg-white shadow-2xl/20 font-serif relative">
-                <img class="h-30 w-50 text- " src="../assets/images/steam.webp" alt="">
-                <h1 class="text-center text-[15px] border w-50 border-hidden">Steam & Vacuum Cleaning</h1>
-                <p class="border text-[10px] text-center px-2 py-1 border-hidden">
+            <div class="w-60 h-80 bg-white shadow-2xl/20 font-serif relative">
+                <img class="h-35 w-60 text- " src="../assets/images/steam.webp" alt="">
+                <h1 class="text-center text-[15px] border w-60 border-hidden">Steam & Vacuum Cleaning</h1>
+                <p class="border text-[13px] text-center px-2 py-1 border-hidden">
                     We sanitize and loosen dirt using high-temperature steam, plus hydrovacuum to remove grime,
                     allergens,
                     and odors, for hygienically clean and refreshed space.</p>
-                <button class="bg-blue-400 text-white text-sm w-50 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
+                <button class="bg-blue-400 text-white text-sm w-60 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
             </div>
-            <div class="w-50 h-70 bg-white shadow-2xl/20 font-serif relative">
-                <img class="h-30 w-50 text- " src="../assets/images/disinfect.jpeg" alt="">
-                <h1 class="text-center text-[15px] border w-50 border-hidden">Duo Disinfection</h1>
-                <p class="border text-[10px] text-center px-2 py-1 border-hidden">
+            <div class="w-60 h-80 bg-white shadow-2xl/20 font-serif relative">
+                <img class="h-35 w-60 text- " src="../assets/images/disinfect.jpeg" alt="">
+                <h1 class="text-center text-[15px] border w-60 border-hidden">Duo Disinfection</h1>
+                <p class="border text-[13px] text-center px-2 py-1 border-hidden">
                     Our Duo Disinfection uses advanced misting and fogging to thoroughly disinfect homes and commercial
                     spaces for maximum protection.
                     and odors, for hygienically clean and refreshed space.</p>
-                <button class="bg-blue-400 text-white text-sm w-50 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
+                <button class="bg-blue-400 text-white text-sm w-60 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
             </div>
-            <div class="w-50 h-70 bg-white shadow-2xl/20 font-serif relative">
-                <img class="h-30 w-50 text- " src="../assets/images/floorpolishing.jpg" alt="">
-                <h1 class="text-center text-[15px] border w-50 border-hidden">Floor Polishing Service</h1>
-                <p class="border text-[10px] text-center px-2 py-1 border-hidden">
+            <div class="w-60 h-80 bg-white shadow-2xl/20 font-serif relative">
+                <img class="h-35 w-60 text- " src="../assets/images/floorpolishing.jpg" alt="">
+                <h1 class="text-center text-[15px] border w-60 border-hidden">Floor Polishing Service</h1>
+                <p class="border text-[13px] text-center px-2 py-1 border-hidden">
                     Floor Polishing Service restores shine and smoothness to your floors, enhancing durability and
                     giving your space a polished, professional look.</p>
-                <button class="bg-blue-400 text-white text-sm w-50 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
+                <button class="bg-blue-400 text-white text-sm w-60 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
             </div>
-            <div class="w-50 h-70 bg-white shadow-2xl/20 font-serif relative">
-                <img class="h-30 w-50 text- " src="../assets/images/aircon.webp" alt="">
-                <h1 class="text-center text-[15px] border w-50 border-hidden">Aircon Cleaning</h1>
-                <p class="border text-[10px] text-center px-2 py-1 border-hidden">
+            <div class="w-60 h-80 bg-white shadow-2xl/20 font-serif relative">
+                <img class="h-35 w-60 text- " src="../assets/images/aircon.webp" alt="">
+                <h1 class="text-center text-[15px] border w-60 border-hidden">Aircon Cleaning</h1>
+                <p class="border text-[13px] text-center px-2 py-1 border-hidden">
                     Our Professional Aircon Cleaning service goes beyond to ensure your unit operates efficiently and
                     circulates clean air.</p>
-                <button class="bg-blue-400 text-white text-sm w-50 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
+                <button class="bg-blue-400 text-white text-sm w-60 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
             </div>
 
         </div>
