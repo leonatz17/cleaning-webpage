@@ -41,7 +41,7 @@ export default {
         <div
             class="flex justify-between items-center border-b-1 border-blue-500/20 w-full lg:px-25 md:px-10 sm:px-10 relative bg-white">
             <div class="shrink-0">
-                <img class="h-15 w-15 rounded-full" src="../assets/images/logo-cleaning.jpeg" alt="">
+                <img class="h-18 w-18 rounded-full" src="../assets/images/logo-cleaning.jpeg" alt="">
             </div>
             <div class="flex  lg:flex md:flex sm:flex gap-3 justify-end font-bold lg:block md:block sm:hidden hidden cursor-pointer">
                 <h1 class=" lg:text-[12px] md:text-[10px] sm:text-[8px] hover:bg-blue-100 px-2">Home</h1>
