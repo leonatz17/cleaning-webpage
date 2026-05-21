@@ -68,7 +68,7 @@ export default {
         <h1></h1>
     </div>
     <!-- menu modal  -->
-    <div v-if="menu" class="text-white h-auto w-40 bg-blue-200 text-2xl text-black shadow-2xl/20 text-center fixed right-50 top-15 z-4000 cursor-pointer font-bold">
+    <div v-if="menu" class="text-white h-auto w-40 bg-blue-200 text-2xl text-black shadow-2xl/20 text-center fixed right-48 top-20 z-4000 cursor-pointer font-bold">
         <h1 text-shadow-lg  >Home</h1>
         <h1 text-shadow-lg  >About Us</h1>
         <h1 text-shadow-lg >Services</h1>
