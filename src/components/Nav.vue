@@ -20,6 +20,10 @@ export default {
         closeMenu(){
             this.menu = false;
             this.bg = false;
+        },
+        navigatePages(page){
+            this.$emit('changepage', page)
+
         }
     }
 }
@@ -44,11 +48,11 @@ export default {
                 <img class="h-20 w-20 rounded-full" src="../assets/images/logo-cleaning.jpeg" alt="">
             </div>
             <div class="flex  lg:flex md:flex sm:flex gap-3 justify-end font-bold lg:block md:block sm:hidden hidden cursor-pointer">
-                <h1 class=" lg:text-[15px] md:text-[12px] sm:text-[10px] hover:bg-blue-100 px-2">Home</h1>
-                <h1 class=" lg:text-[15px] md:text-[12px] sm:text-[10px]  hover:bg-blue-100 px-2">About Us</h1>
-                <h1 class=" lg:text-[15px] md:text-[12px] sm:text-[10px]  hover:bg-blue-100 px-2">Services</h1>
-                <h1 class=" lg:text-[15px] md:text-[12px] sm:text-[10px]  hover:bg-blue-100 px-2">Contact Us</h1>
-                <h1 class=" lg:text-[15px] md:text-[12px] sm:text-[10px]  hover:bg-blue-100 px-2">FAQ</h1>
+                <h1 class=" lg:text-[15px] md:text-[12px] sm:text-[10px] hover:bg-blue-100 px-2" @click="navigatePages('Home')">Home</h1>
+                <h1 class=" lg:text-[15px] md:text-[12px] sm:text-[10px]  hover:bg-blue-100 px-2" @click="navigatePages('About')">About Us</h1>
+                <h1 class=" lg:text-[15px] md:text-[12px] sm:text-[10px]  hover:bg-blue-100 px-2" @click="navigatePages('Services')">Services</h1>
+                <h1 class=" lg:text-[15px] md:text-[12px] sm:text-[10px]  hover:bg-blue-100 px-2" @click="navigatePages('Contact')">Contact Us</h1>
+                <h1 class=" lg:text-[15px] md:text-[12px] sm:text-[10px]  hover:bg-blue-100 px-2" @click="navigatePages('Faq')">FAQ</h1>
             </div>
             <div class="absolute right-35">
                 <svg class="w-10 h-10 lg:hidden md:hidden sm:block " aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
