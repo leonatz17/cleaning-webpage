@@ -29,7 +29,7 @@ export default {
 
 <template>
     <div class="fixed top-0 z-1000  w-full ">
-        <div class=" flex  h-auto bg-blue-200 w-full justify-between  px-25 lg:px-25 md:px-20 sm:px-0">
+        <div class=" flex  h-auto bg-blue-200 w-full justify-between   lg:px-25 md:px-0 sm:px-0">
             <div class="border w-70  border-hidden">
                 <p class="lg:text-[8px] md:text-[10px] sm:text-[12px] text-white font-semibold py-1">CALL US NOW: +63917 883 3145</p>
             </div>
