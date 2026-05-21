@@ -2,8 +2,8 @@
 
 </script>
 <template>
-    <div class="lg:h-10 md:h-30 sm:50 w-full border">
-        <h1></h1>
+    <div class="lg:h-10 md:h-30 sm:50 w-full">
+        <h1>hi</h1>
     </div>
     <div class="relative lg:mt-10 md:mt-20 sm:mt-30">
         <div>
