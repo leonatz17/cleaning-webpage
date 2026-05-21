@@ -26,16 +26,16 @@
 
     <div class="flex justify-center mt-10">
         <div class="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1  gap-5">
-            <div class="w-55 h-70 bg-white shadow-2xl/20 font-serif relative">
-                <img class="h-30 w-55 text- " src="../assets/images/regular.jpg" alt="">
-                <h1 class="text-center text-[15px] border w-55 border-hidden">Clean Sparks Regular Cleaning</h1>
+            <div class="w-60 h-80 bg-white shadow-2xl/20 font-serif relative">
+                <img class="h-35 w-60 text- " src="../assets/images/regular.jpg" alt="">
+                <h1 class="text-center text-[15px] border w-60 border-hidden">Clean Sparks Regular Cleaning</h1>
                 <p class="border text-[10px] text-center px-2 py-1 border-hidden">
                     Clean Sparks Regular Cleaning keeps frequently used and accessible areas clean, perfect for
                     maintaining
                     a fresh,
                     organized home or condo.
                 </p>
-                <button class="bg-blue-400 text-white text-sm w-50 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
+                <button class="bg-blue-400 text-white text-sm w-60 py-1 absolute bottom-0 cursor-pointer">Learn More</button>
 
             </div>
             <div class="w-50 h-70 bg-white shadow-2xl/20 font-serif relative">
