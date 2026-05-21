@@ -18,7 +18,7 @@
     <div class=" mt-10 flex justify-center px-10">
         <div class="lg:w-100 md:w-80 sm:50 border text-center font-serif border-hidden">
             <h1 class="text-2xl font-bold py-3">What do we do?</h1>
-            <p class="text-[12px]">Experience unparalleled cleaning services from our Clean Sparks Agents. Whether it’s
+            <p class="text-[15px]">Experience unparalleled cleaning services from our Clean Sparks Agents. Whether it’s
                 your residence, commercial
                 space, or a post-construction site, rest assured that you’ll receive top-quality service.</p>
         </div>
@@ -26,9 +26,9 @@
 
     <div class="flex justify-center mt-10">
         <div class="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1  gap-5">
-            <div class="w-50 h-70 bg-white shadow-2xl/20 font-serif relative">
-                <img class="h-30 w-50 text- " src="../assets/images/regular.jpg" alt="">
-                <h1 class="text-center text-[15px] border w-50 border-hidden">Clean Sparks Regular Cleaning</h1>
+            <div class="w-55 h-70 bg-white shadow-2xl/20 font-serif relative">
+                <img class="h-30 w-55 text- " src="../assets/images/regular.jpg" alt="">
+                <h1 class="text-center text-[15px] border w-55 border-hidden">Clean Sparks Regular Cleaning</h1>
                 <p class="border text-[10px] text-center px-2 py-1 border-hidden">
                     Clean Sparks Regular Cleaning keeps frequently used and accessible areas clean, perfect for
                     maintaining
@@ -141,7 +141,7 @@
     <div class="flex justify-center mt-15 px-10">
         <div class="border border-hidden lg:w-120 md:w-100 sm:w-80 text-center font-serif">
             <h1 class="py-2 font-bold text-2xl">SPRUCE CLEANING SERVICES’ PRODUCTS ARE ALL CERTIFIED:</h1>
-            <p class="text-[12px]">We provide a space with the certainty that the cleaning solutions we use have been
+            <p class="text-[15px]">We provide a space with the certainty that the cleaning solutions we use have been
                 authorized by
                 reputable
                 third-party quality international management organizations and contain eco-friendly ingredients that
