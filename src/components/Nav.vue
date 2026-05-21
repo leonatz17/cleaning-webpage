@@ -44,11 +44,11 @@ export default {
                 <img class="h-18 w-18 rounded-full" src="../assets/images/logo-cleaning.jpeg" alt="">
             </div>
             <div class="flex  lg:flex md:flex sm:flex gap-3 justify-end font-bold lg:block md:block sm:hidden hidden cursor-pointer">
-                <h1 class=" lg:text-[12px] md:text-[10px] sm:text-[8px] hover:bg-blue-100 px-2">Home</h1>
-                <h1 class=" lg:text-[12px] md:text-[10px] sm:text-[8px]  hover:bg-blue-100 px-2">About Us</h1>
-                <h1 class=" lg:text-[12px] md:text-[10px] sm:text-[8px]  hover:bg-blue-100 px-2">Services</h1>
-                <h1 class=" lg:text-[12px] md:text-[10px] sm:text-[8px]  hover:bg-blue-100 px-2">Contact Us</h1>
-                <h1 class=" lg:text-[12px] md:text-[10px] sm:text-[8px]  hover:bg-blue-100 px-2">FAQ</h1>
+                <h1 class=" lg:text-[15px] md:text-[12px] sm:text-[10px] hover:bg-blue-100 px-2">Home</h1>
+                <h1 class=" lg:text-[15px] md:text-[12px] sm:text-[10px]  hover:bg-blue-100 px-2">About Us</h1>
+                <h1 class=" lg:text-[15px] md:text-[12px] sm:text-[10px]  hover:bg-blue-100 px-2">Services</h1>
+                <h1 class=" lg:text-[15px] md:text-[12px] sm:text-[10px]  hover:bg-blue-100 px-2">Contact Us</h1>
+                <h1 class=" lg:text-[15px] md:text-[12px] sm:text-[10px]  hover:bg-blue-100 px-2">FAQ</h1>
             </div>
             <div class="absolute right-35">
                 <svg class="w-6 h-6 lg:hidden md:hidden sm:block " aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
